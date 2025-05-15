@@ -13,16 +13,14 @@ Fornecer uma visão estratégica e otimizada sobre:
 - **Formas de Pagamento**: Análise dos meios de pagamento mais utilizados, como **Pix** e **Cartão**.
 
 ## 📁 Estrutura do Projeto
-- **relatorio/**: Arquivo interativo do dashboard
+- **relatorio/**: A Arquivo .pbix do Power BI
 - **base-de-dados/**: Base de dados com as vendas e pagamentos (dados simulados)
 - **documentacao/**: Documentação técnica do projeto
 - **imagens/**: Capturas de tela do painel de vendas
 
 ## 🛠️ Ferramentas Utilizadas
-- **Power BI**: Para criação do dashboard interativo
-- **Excel**: Para manipulação e análise inicial dos dados
-- **Google Data Studio**: Opcional para relatórios complementares
+- **Power BI**
+- **Excel**
 
 ## 🧑‍💼 Autor
-[Seu nome aqui]
-
+[Erique Ferreira Dias]([www.linkedin.com/in/erique-ferreira-6451382a2](https://www.linkedin.com/in/erique-ferreira-6451382a2/))  
